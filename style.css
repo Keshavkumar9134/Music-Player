@@ -195,7 +195,7 @@ img {
   border-radius: inherit;
 
   /* animated gradient progress */
-  background: linear-gradient(90deg, #7c3aed, #06b6d4);
+  background: black;
   transition: width .20s linear;
 }
 
@@ -205,4 +205,5 @@ img {
   .music_container { padding: 2rem; }
   .music_controls { width: 18rem; }
 }
+
 
