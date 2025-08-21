@@ -196,7 +196,7 @@ img {
 
   /* animated gradient progress */
   background: linear-gradient(90deg, #7c3aed, #06b6d4);
-  transition: width .10s linear;
+  transition: width .20s linear;
 }
 
 /* ===== Responsive tweaks ===== */
@@ -205,3 +205,4 @@ img {
   .music_container { padding: 2rem; }
   .music_controls { width: 18rem; }
 }
+
